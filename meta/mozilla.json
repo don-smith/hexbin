@@ -1,0 +1,8 @@
+{
+  "name": "mozilla",
+  "author": "Don Smith",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/mozilla.png",
+  "vector": "http://hexb.in/vector/mozilla.svg",
+  "description": "moz://a"
+}
