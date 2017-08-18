@@ -1,0 +1,8 @@
+{
+  "name": "i3",
+  "author": "Don Smith",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/i3.png",
+  "vector": "http://hexb.in/vector/i3.svg",
+  "description": "The i3 window manager"
+}
