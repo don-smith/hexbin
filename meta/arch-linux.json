@@ -1,0 +1,8 @@
+{
+  "name": "arch-linux",
+  "author": "Don Smith",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/arch-linux.png",
+  "vector": "http://hexb.in/vector/arch-linux.svg",
+  "description": "Arch Linux"
+}
