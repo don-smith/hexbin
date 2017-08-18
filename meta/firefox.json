@@ -1,0 +1,8 @@
+{
+  "name": "firefox",
+  "author": "Don Smith",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/firefox.png",
+  "vector": "http://hexb.in/vector/firefox.svg",
+  "description": "The Firefox browser"
+}
